@@ -1,4 +1,4 @@
-import PostsGrid from "../posts/postsGrid"
+import PostsGrid from "../posts/PostsGrid"
 import classes from "./featured-posts.module.css"
 
 const FeaturedPosts = (props) => {
