@@ -1,4 +1,4 @@
-import PostHeader from "./postHeader"
+import PostHeader from "./PostHeader"
 import classes from "./post-content.module.css"
 import ReactMarkdown from "react-markdown"
 import Image from "next/image"
